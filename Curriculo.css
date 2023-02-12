@@ -1,0 +1,23 @@
+.apresenta__conteudo__texto a {
+  text-decoration: none;
+  color: #55C9FF;
+}
+
+h1 {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 400;
+}
+
+.apresenta__conteudo__texto {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#contato:hover {
+  color: #55C9FF;
+  font-size: 22px;
+}
